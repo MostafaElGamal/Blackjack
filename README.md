@@ -1,2 +1,2 @@
 # Blackjack
-I'ts a blackjack game my second project 
+> Build from the this course: https://www.udemy.com/course/complete-python-bootcamp/ <--- "Thanks very much."
